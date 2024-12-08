@@ -10,11 +10,11 @@ Mata Kuliah    	: Algoritma Struktur Data (TI-D)
 Aplikasi yang saya buat adalah aplikasi sederhana untuk mengelola item berupa monitor-monitor yang tersedia di sebuah gudang monitor. Aplikasi ini merupakan aplikasi berbasis konsol (CLI) dan dibuat dengan bahasa java. Dalam aplikasi ini, user dapat menambahkan monitor baru ke dalam gudang dan menyortir monitor berdasarkan kategori (Nama, Harga, dan Ukuran Layar), proses sorting pada aplikasi ini memanfaatkan metode sorting pada java, yaitu Bubble Sort dan Insertion Sort. 
 
 # Alur Program  
-Menu utama
-Menambahkan monitor baru ke gudang
-Melakukan sorting berdasarkan kategori
-Menampilkan daftar monitor yang tersedia di gudang
-Keluar dari program
+1. Menu utama
+2. Menambahkan monitor baru ke gudang
+3. Melakukan sorting berdasarkan kategori
+4. Menampilkan daftar monitor yang tersedia di gudang
+5. Keluar dari program
 
 # Screenshot 
 1. Menu utama
