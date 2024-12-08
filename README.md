@@ -1,4 +1,4 @@
-﻿# Gudang-Monitor-Tugas-Akhir-ASD
+﻿# Gudang Monitor - Tugas Akhir ASD
 
 # Identitas
 Nama           		: Pandu Satria Sapta Loka \
